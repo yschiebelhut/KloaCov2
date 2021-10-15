@@ -1,0 +1,14 @@
+Karlsruhe-Neureut (Fri Oct 15 10:51:39 CEST 2021): {ALPHA (B.1.1.7)=5, BETA (B.1.351)=5, GAMMA (P.1)=5, DELTA (B.1.617)=5, LAMBDA (C.37)=5}
+Bruchsal (Fri Oct 15 10:51:51 CEST 2021): {ALPHA (B.1.1.7)=5, BETA (B.1.351)=2, GAMMA (P.1)=1, DELTA (B.1.617)=2, LAMBDA (C.37)=45}
+Bruchsal-Heidelsheim (Fri Oct 15 10:57:14 CEST 2021): {LAMBDA (C.37)=6, DELTA (B.1.617)=2, GAMMA (P.1)=1, ALPHA (B.1.1.7)=5, BETA (B.1.351)=4}
+Linkenheim-Hochstetten (Fri Oct 15 10:57:23 CEST 2021): {LAMBDA (C.37)=5, DELTA (B.1.617)=321, GAMMA (P.1)=561, ALPHA (B.1.1.7)=651, BETA (B.1.351)=654}
+Graben-Neudorf/Dettenheim (Fri Oct 15 10:57:29 CEST 2021): {LAMBDA (C.37)=5, DELTA (B.1.617)=4, GAMMA (P.1)=2, ALPHA (B.1.1.7)=5, BETA (B.1.351)=2}
+Linkenheim-Hochstetten (Fri Oct 15 10:58:35 CEST 2021): {LAMBDA (C.37)=321, DELTA (B.1.617)=564, GAMMA (P.1)=651, ALPHA (B.1.1.7)=651, BETA (B.1.351)=651}
+Graben-Neudorf/Dettenheim (Fri Oct 15 10:58:42 CEST 2021): {LAMBDA (C.37)=321, DELTA (B.1.617)=5, GAMMA (P.1)=5, ALPHA (B.1.1.7)=651, BETA (B.1.351)=651}
+Bruchsal-Heidelsheim (Fri Oct 15 10:58:52 CEST 2021): {LAMBDA (C.37)=2, DELTA (B.1.617)=321, GAMMA (P.1)=65321, ALPHA (B.1.1.7)=984, BETA (B.1.351)=654}
+Graben-Neudorf/Dettenheim (Fri Oct 15 11:03:55 CEST 2021): {LAMBDA (C.37)=0, DELTA (B.1.617)=0, GAMMA (P.1)=0, ALPHA (B.1.1.7)=50, BETA (B.1.351)=0}
+Karlsruhe-Neureut (Fri Oct 15 11:04:11 CEST 2021): {LAMBDA (C.37)=0, DELTA (B.1.617)=0, GAMMA (P.1)=0, ALPHA (B.1.1.7)=150, BETA (B.1.351)=0}
+Graben-Neudorf/Dettenheim (Fri Oct 15 11:10:41 CEST 2021): {LAMBDA (C.37)=0, DELTA (B.1.617)=0, GAMMA (P.1)=0, ALPHA (B.1.1.7)=50, BETA (B.1.351)=0}
+Karlsruhe-Neureut (Fri Oct 15 11:10:47 CEST 2021): {LAMBDA (C.37)=0, DELTA (B.1.617)=0, GAMMA (P.1)=0, ALPHA (B.1.1.7)=150, BETA (B.1.351)=0}
+Karlsruhe-Neureut (Fri Oct 15 11:13:15 CEST 2021): {LAMBDA (C.37)=561, DELTA (B.1.617)=651, GAMMA (P.1)=651, ALPHA (B.1.1.7)=651, BETA (B.1.351)=651}
+Linkenheim-Hochstetten (Fri Oct 15 11:15:04 CEST 2021): {LAMBDA (C.37)=651, DELTA (B.1.617)=651, GAMMA (P.1)=561, ALPHA (B.1.1.7)=651, BETA (B.1.351)=651}

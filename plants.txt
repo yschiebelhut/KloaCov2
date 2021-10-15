@@ -1,0 +1,5 @@
+Bruchsal;50000;8.594;49.142
+Bruchsal-Heidelsheim;100000;8.636;49.113
+Karlsruhe-Neureut;350000;8.359;49.046
+Graben-Neudorf/Dettenheim;18800;8.402;49.171
+Linkenheim-Hochstetten;12000;8.399;49.144
